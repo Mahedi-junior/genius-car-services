@@ -4,7 +4,7 @@ import expert2 from '../../../images/experts/expert-2.jpg';
 import expert3 from '../../../images/experts/expert-3.jpg';
 import expert4 from '../../../images/experts/expert-4.jpg';
 import expert5 from '../../../images/experts/expert-5.jpg';
-import expert6 from '../../../images/experts/expert-6.png';
+import expert6 from '../../../images/experts/expert-8.png';
 import Expert from '../Expert/Expert';
 
 const experts = [
@@ -13,7 +13,7 @@ const experts = [
     { id: 3, name: 'Dwayne Rock', img: expert3 },
     { id: 4, name: 'Satchy John', img: expert4 },
     { id: 5, name: 'Mthew Wade', img: expert5 },
-    { id: 6, name: 'Ros Taylor', img: expert6 }
+    { id: 6, name: 'Expert Team', img: expert6 }
 ]
 
 const Experts = () => {
